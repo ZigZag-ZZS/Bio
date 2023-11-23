@@ -54,7 +54,7 @@ body{
     color: rgb(0, 47, 255);
 }
 
-
+/*-Секция 1-*/
 
 #sect-1 {
 	margin-top: 0vh;
@@ -87,6 +87,8 @@ body{
     animation: scroll 15s infinite linear
 }
 
+/*-Секция 2-*/
+
 #sect-2 {
     margin-top: 1vh;
     animation: slide 1s ease-out forwards;
@@ -96,7 +98,7 @@ body{
     background-size: cover;
     border-radius: 3px;
 }
-.text-2 {
+.text-2  h2 {
     left: 1%;
     top: 200px;
     position: relative;
@@ -109,6 +111,180 @@ body{
     overflow: hidden;
 }
 
+.text-2 p {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/*-Секция 3-*/
+
+#sect-3 {
+    margin-top: 1vh;
+    animation: slide 1s ease-out forwards;
+    height: 100vh;
+    background-image: url("IMG20220529190207.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3px;
+}
+.text-3  h2 {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 3em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.text-3 p {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/*-Секция 4-*/
+
+#sect-4 {
+    margin-top: 1vh;
+    animation: slide 1s ease-out forwards;
+    height: 100vh;
+    background-image: url("IMG20220529190207.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3px;
+}
+.text-4  h2 {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 3em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.text-4 p {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/*-Секция 5-*/
+
+#sect-5 {
+    margin-top: 1vh;
+    animation: slide 1s ease-out forwards;
+    height: 100vh;
+    background-image: url("IMG20220529190207.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3px;
+}
+.text-5  h2 {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 3em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.text-5 p {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/*-Секция 6-*/
+
+#sect-6 {
+    margin-top: 1vh;
+    animation: slide 1s ease-out forwards;
+    height: 100vh;
+    background-image: url("IMG20220529190207.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3px;
+}
+.text-6  h2 {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 3em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.text-6 p {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/*-Секция 7
+-*/
+
+#sect-7 {
+    margin-top: 1vh;
+    animation: slide 1s ease-out forwards;
+    height: 100vh;
+    background-image: url("IMG20220529190207.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3px;
+}
+.text-7  h2 {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 3em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    display: block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.text-7 p {
+    left: 1%;
+    top: 200px;
+    position: relative;
+    color: white;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
 
 
 /*- Анимации -*/
