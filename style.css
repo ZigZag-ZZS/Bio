@@ -260,6 +260,53 @@ body{
     font-size: 2em;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.cont-1{
+    position: relative;
+    top: 200px;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(10px);
+    height: 10%;
+    width: 30%;
+    border-radius: 8px;
+}
+
+.cont-1 h2,.cont-1 p{
+    top: 0px;
+}
+
+.cont-2{
+    position: relative;
+    top: 200px;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(10px);
+    height: 10%;
+    width: 30%;
+    border-radius: 8px;
+}
+
+.cont-2 h2,.cont-2 p{
+    top: 0px;
+}
+
+.cont-3{
+    position: relative;
+    top: 200px;
+    background: rgba(255,255,255,0.1);
+    backdrop-filter: blur(10px);
+    height: 10%;
+    width: 30%;
+    border-radius: 8px;
+}
+
+.cont-3 h2,.cont-3 p{
+    top: 0px;
+}
 
 /*- Бегущая строка с изоображениями -*/
 
