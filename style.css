@@ -290,8 +290,10 @@ body{
     border-radius: 8px;
 }
 
-.cont-2 h2,.cont-2 p{
+.cont-2 h2,.cont-2 p,.cont-2 a{
     top: 0px;
+    color: #ffffff;
+    text-decoration-line: none;
 }
 
 .cont-3{
